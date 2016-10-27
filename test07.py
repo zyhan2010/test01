@@ -14,3 +14,4 @@ for lgd in syudent:
     else:
         print lgd
 
+print syudent
